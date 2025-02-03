@@ -1,0 +1,674 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Expr",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Binary",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Unary",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Grouping",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Expr",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Grouping",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Assign",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Binary",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Expr",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Grouping",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Unary",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Expr",
+        "importPath": "Expr",
+        "description": "Expr",
+        "isExtraImport": true,
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Token",
+        "description": "Token",
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "Token",
+        "description": "Token",
+        "isExtraImport": true,
+        "detail": "Token",
+        "documentation": {}
+    },
+    {
+        "label": "MyRuntimeError",
+        "importPath": "RuntimeError",
+        "description": "RuntimeError",
+        "isExtraImport": true,
+        "detail": "RuntimeError",
+        "documentation": {}
+    },
+    {
+        "label": "MyRuntimeError",
+        "importPath": "RuntimeError",
+        "description": "RuntimeError",
+        "isExtraImport": true,
+        "detail": "RuntimeError",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "Stmt",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Expression",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Print",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Stmt",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Var",
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "isExtraImport": true,
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "importPath": "Environment",
+        "description": "Environment",
+        "isExtraImport": true,
+        "detail": "Environment",
+        "documentation": {}
+    },
+    {
+        "label": "Scanner",
+        "importPath": "Scanner",
+        "description": "Scanner",
+        "isExtraImport": true,
+        "detail": "Scanner",
+        "documentation": {}
+    },
+    {
+        "label": "Parser",
+        "importPath": "Parser",
+        "description": "Parser",
+        "isExtraImport": true,
+        "detail": "Parser",
+        "documentation": {}
+    },
+    {
+        "label": "AstPrinter",
+        "importPath": "AstPrinter",
+        "description": "AstPrinter",
+        "isExtraImport": true,
+        "detail": "AstPrinter",
+        "documentation": {}
+    },
+    {
+        "label": "Interpreter",
+        "importPath": "Interpreter",
+        "description": "Interpreter",
+        "isExtraImport": true,
+        "detail": "Interpreter",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "TokenType",
+        "description": "TokenType",
+        "isExtraImport": true,
+        "detail": "TokenType",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "TokenType",
+        "description": "TokenType",
+        "isExtraImport": true,
+        "detail": "TokenType",
+        "documentation": {}
+    },
+    {
+        "label": "TokenType",
+        "importPath": "TokenType",
+        "description": "TokenType",
+        "isExtraImport": true,
+        "detail": "TokenType",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "imports",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def imports():\n    allImports=[\n        \"from abc import ABC, abstractmethod\",\n        \"from Token import Token\"\n    ]\n    return  allImports\ndef giveMeThis(field:str):\n    return f\"self.{field.split()[1]} = {field.split()[1]}\"\ndef giveMeTypes(fieldlist:str):\n    fields = fieldlist.split(\", \")",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "giveMeThis",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def giveMeThis(field:str):\n    return f\"self.{field.split()[1]} = {field.split()[1]}\"\ndef giveMeTypes(fieldlist:str):\n    fields = fieldlist.split(\", \")\n    result = \",\".join(f\"{s.split()[1]}:'{s.split()[0]}'\" for s in fields)\n    return result\ndef addEmptyLines(file:TextIO,num:int):\n    for i in range(num):\n        print(file=file)\ndef ExprClass(file:TextIO,baseName:str,types:List[str]):",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "giveMeTypes",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def giveMeTypes(fieldlist:str):\n    fields = fieldlist.split(\", \")\n    result = \",\".join(f\"{s.split()[1]}:'{s.split()[0]}'\" for s in fields)\n    return result\ndef addEmptyLines(file:TextIO,num:int):\n    for i in range(num):\n        print(file=file)\ndef ExprClass(file:TextIO,baseName:str,types:List[str]):\n    print(f\"class {baseName}(ABC):\", file=file)\n    print(\" \"*4+f\"@abstractmethod\",file=file)",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "addEmptyLines",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def addEmptyLines(file:TextIO,num:int):\n    for i in range(num):\n        print(file=file)\ndef ExprClass(file:TextIO,baseName:str,types:List[str]):\n    print(f\"class {baseName}(ABC):\", file=file)\n    print(\" \"*4+f\"@abstractmethod\",file=file)\n    print(\" \"*4+\"def accept(self,visitor):\",file=file)\n    print(\" \"*8+f\"pass\",file=file)\n    addEmptyLines(file,1)\n    print(\" \"*4+f\"class Visitor:\",file=file)",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "ExprClass",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def ExprClass(file:TextIO,baseName:str,types:List[str]):\n    print(f\"class {baseName}(ABC):\", file=file)\n    print(\" \"*4+f\"@abstractmethod\",file=file)\n    print(\" \"*4+\"def accept(self,visitor):\",file=file)\n    print(\" \"*8+f\"pass\",file=file)\n    addEmptyLines(file,1)\n    print(\" \"*4+f\"class Visitor:\",file=file)\n    for type in types:\n        className=type.split()[0].strip()\n        print(\" \"*8+\"@abstractmethod\",file=file )",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "defineType",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def defineType(file:TextIO,baseName:str,className:str,fieldList:str):\n    fields:List[str]=fieldList.split(\", \")\n    print(f\"class {className}({baseName}): \",file=file)\n    print(\" \"*4+f\"def __init__(self,{giveMeTypes(fieldList)}): \",file=file)\n    for field in fields:\n        print(\" \"*8+giveMeThis(field),file=file)\n    addEmptyLines(file,1)\n    print(\" \"*4+f\"def accept(self,visitor):\",file=file)\n    print(\" \"*8+f\"return visitor.visit_{className.lower()}_{baseName.lower()}(self)\",file=file)\n    addEmptyLines(file,2)",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "defineAst",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def defineAst(outputDir:str,baseName:str,types:List[str],extraImports=[]):\n    path=outputDir+\"/\"+baseName+\".py\"\n    allImports=imports()\n    with open(path,\"w\",encoding=\"utf-8\") as file:\n        for import_name in allImports:\n            print(import_name,file=file)\n        for import_name in extraImports:\n            print(import_name,file=file)    \n        addEmptyLines(file,2)\n        ExprClass(file,baseName,types)",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.GenerateAst",
+        "description": "tools.GenerateAst",
+        "peekOfCode": "def main():\n    if(len(sys.argv)!=2):\n        print(\"Usage: generate_ast <output directory>\")\n        sys.exit(64)\n    outputDir=sys.argv[1]\n    print(outputDir,type(outputDir))\n    defineAst(outputDir,\"Expr\",[\n        \"Assign   : Token name, Expr value\",\n        \"Binary   : Expr left, Token operator, Expr right\",\n        \"Grouping : Expr expression\",",
+        "detail": "tools.GenerateAst",
+        "documentation": {}
+    },
+    {
+        "label": "AstPrinter",
+        "kind": 6,
+        "importPath": "AstPrinter",
+        "description": "AstPrinter",
+        "peekOfCode": "class AstPrinter(Expr.Visitor):\n    def print(self,expr:'Expr')->str:\n        return  expr.accept(self)\n    def visit_binary_expr(self,expr: 'Binary'):\n        return  self.parenthesize(expr.operator.lexeme,expr.left,expr.right)\n    def visit_grouping_expr(self,expr: 'Grouping'):\n        return  self.parenthesize(\"group\",expr.expression)\n    def visit_literal_expr(self,expr: 'Literal'):\n        if expr.value is None:\n            return \"nil\"",
+        "detail": "AstPrinter",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "AstPrinter",
+        "description": "AstPrinter",
+        "peekOfCode": "def main():\n    expression=Binary(\n        Unary(\n            Token(TokenType.MINUS,\"-\",None,1),\n            Literal(123),\n        ),\n        Token(TokenType.STAR,\"*\",None,1),\n        Grouping(Literal(45.67)),\n    )\n    print(AstPrinter().print(expression))",
+        "detail": "AstPrinter",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "kind": 6,
+        "importPath": "Environment",
+        "description": "Environment",
+        "peekOfCode": "class Environment:\n    def __init__(self,enclosing=None):\n        self.values=dict()\n        self.enclosing=enclosing\n    def define(self,name,value):\n        self.values[name]=value\n    def get(self,name):    \n        if name.lexeme in self.values:\n            return self.values.get(name.lexeme)\n        if self.enclosing is not None:",
+        "detail": "Environment",
+        "documentation": {}
+    },
+    {
+        "label": "Expr",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Expr(ABC):\n    @abstractmethod\n    def accept(self,visitor):\n        pass\n    class Visitor:\n        @abstractmethod\n        def visit_assign_expr(self,expr: 'Assign'):\n            pass\n        @abstractmethod\n        def visit_binary_expr(self,expr: 'Binary'):",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Assign",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Assign(Expr): \n    def __init__(self,name:'Token',value:'Expr'): \n        self.name = name\n        self.value = value\n    def accept(self,visitor):\n        return visitor.visit_assign_expr(self)\nclass Binary(Expr): \n    def __init__(self,left:'Expr',operator:'Token',right:'Expr'): \n        self.left = left\n        self.operator = operator",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Binary",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Binary(Expr): \n    def __init__(self,left:'Expr',operator:'Token',right:'Expr'): \n        self.left = left\n        self.operator = operator\n        self.right = right\n    def accept(self,visitor):\n        return visitor.visit_binary_expr(self)\nclass Grouping(Expr): \n    def __init__(self,expression:'Expr'): \n        self.expression = expression",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Grouping",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Grouping(Expr): \n    def __init__(self,expression:'Expr'): \n        self.expression = expression\n    def accept(self,visitor):\n        return visitor.visit_grouping_expr(self)\nclass Literal(Expr): \n    def __init__(self,value): \n        self.value = value\n    def accept(self,visitor):\n        return visitor.visit_literal_expr(self)",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Literal(Expr): \n    def __init__(self,value): \n        self.value = value\n    def accept(self,visitor):\n        return visitor.visit_literal_expr(self)\nclass Unary(Expr): \n    def __init__(self,operator:'Token',right:'Expr'): \n        self.operator = operator\n        self.right = right\n    def accept(self,visitor):",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Unary",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Unary(Expr): \n    def __init__(self,operator:'Token',right:'Expr'): \n        self.operator = operator\n        self.right = right\n    def accept(self,visitor):\n        return visitor.visit_unary_expr(self)\nclass Variable(Expr): \n    def __init__(self,name:'Token'): \n        self.name = name\n    def accept(self,visitor):",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "kind": 6,
+        "importPath": "Expr",
+        "description": "Expr",
+        "peekOfCode": "class Variable(Expr): \n    def __init__(self,name:'Token'): \n        self.name = name\n    def accept(self,visitor):\n        return visitor.visit_variable_expr(self)",
+        "detail": "Expr",
+        "documentation": {}
+    },
+    {
+        "label": "Interpreter",
+        "kind": 6,
+        "importPath": "Interpreter",
+        "description": "Interpreter",
+        "peekOfCode": "class Interpreter(Expr.Visitor,Stmt.Visitor):\n    def __init__(self,lox):\n        self.lox=lox\n        self.environment=Environment()\n    def visit_literal_expr(self, expr:Literal):\n        return expr.value\n    def visit_grouping_expr(self, expr:Grouping):\n        return self.evaluate(expr.expression)\n    def visit_unary_expr(self, expr):\n        right=self.evaluate(expr.right)",
+        "detail": "Interpreter",
+        "documentation": {}
+    },
+    {
+        "label": "Lox",
+        "kind": 6,
+        "importPath": "Lox",
+        "description": "Lox",
+        "peekOfCode": "class Lox:\n    def __init__(self):\n        self.hadError: bool = False\n        self.hadRunTimeError:bool=False\n        self.interpreter=Interpreter(self)\n    # @staticmethod\n    # def main(args):\n    #     # note :  1st(args[0]) argument always name of file(ex:Lox.py)\n    #     if len(args)>2:\n    #         print(\"Usage: py_lox [script]\")",
+        "detail": "Lox",
+        "documentation": {}
+    },
+    {
+        "label": "Parser",
+        "kind": 6,
+        "importPath": "Parser",
+        "description": "Parser",
+        "peekOfCode": "class Parser:\n    class ParseError(RuntimeError):\n        pass\n    def __init__(self,tokens: list,error_handler):\n        self.tokens=tokens\n        self.current=0\n        self.error_handler=error_handler\n    def parse(self):\n        jod=[]\n        try:",
+        "detail": "Parser",
+        "documentation": {}
+    },
+    {
+        "label": "MyRuntimeError",
+        "kind": 6,
+        "importPath": "RuntimeError",
+        "description": "RuntimeError",
+        "peekOfCode": "class MyRuntimeError(RuntimeError):\n    def __init__(self,token,message):\n        self.token=token\n        super().__init__(message)",
+        "detail": "RuntimeError",
+        "documentation": {}
+    },
+    {
+        "label": "Scanne",
+        "kind": 6,
+        "importPath": "Scanner",
+        "description": "Scanner",
+        "peekOfCode": "class Scanner :\n    def __init__ (self,source:str,lox):\n        self.source:str=source\n        self.tokens=[]\n        self.start:int=0\n        self.current:int=0\n        self.line:int=1\n        self.lox=lox\n        self.Keywords={\n         \"and\":self.get_token_type(\"AND\"),",
+        "detail": "Scanner",
+        "documentation": {}
+    },
+    {
+        "label": "Stmt",
+        "kind": 6,
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "peekOfCode": "class Stmt(ABC):\n    @abstractmethod\n    def accept(self,visitor):\n        pass\n    class Visitor:\n        @abstractmethod\n        def visit_expression_stmt(self,expr: 'Expression'):\n            pass\n        @abstractmethod\n        def visit_print_stmt(self,expr: 'Print'):",
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Expression",
+        "kind": 6,
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "peekOfCode": "class Expression(Stmt): \n    def __init__(self,expression:'Expr'): \n        self.expression = expression\n    def accept(self,visitor):\n        return visitor.visit_expression_stmt(self)\nclass Print(Stmt): \n    def __init__(self,expression:'Expr'): \n        self.expression = expression\n    def accept(self,visitor):\n        return visitor.visit_print_stmt(self)",
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Print",
+        "kind": 6,
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "peekOfCode": "class Print(Stmt): \n    def __init__(self,expression:'Expr'): \n        self.expression = expression\n    def accept(self,visitor):\n        return visitor.visit_print_stmt(self)\nclass Var(Stmt): \n    def __init__(self,name:'Token',intializer:'Expr'): \n        self.name = name\n        self.intializer = intializer\n    def accept(self,visitor):",
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Var",
+        "kind": 6,
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "peekOfCode": "class Var(Stmt): \n    def __init__(self,name:'Token',intializer:'Expr'): \n        self.name = name\n        self.intializer = intializer\n    def accept(self,visitor):\n        return visitor.visit_var_stmt(self)\nclass Block(Stmt): \n    def __init__(self,statements:'list'): \n        self.statements = statements\n    def accept(self,visitor):",
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "Stmt",
+        "description": "Stmt",
+        "peekOfCode": "class Block(Stmt): \n    def __init__(self,statements:'list'): \n        self.statements = statements\n    def accept(self,visitor):\n        return visitor.visit_block_stmt(self)",
+        "detail": "Stmt",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "Token",
+        "description": "Token",
+        "peekOfCode": "class Token:\n    def __init__(self,tokentype:TokenType,lexeme,literal:str,line:int):\n        self.type=tokentype\n        self.lexeme=lexeme\n        self.literal=literal\n        self.line=line\n    def __str__(self):\n        return f\"{self.type} {self.lexeme} {self.literal}\"",
+        "detail": "Token",
+        "documentation": {}
+    }
+]
